@@ -9,3 +9,8 @@ Currently, two official plugins are available:
 
 
 https://www.youtube.com/watch?v=FHTbsZEJspU
+
+## Web2acx Links
+- Live Demo : https://youtube-clone-web2acx.vercel.app/
+- Repository: https://github.com/m6code/youtubeClone-web2acx
+- Weekly Blog : 
