@@ -13,4 +13,4 @@ https://www.youtube.com/watch?v=FHTbsZEJspU
 ## Web2acx Links
 - Live Demo : https://youtube-clone-web2acx.vercel.app/
 - Repository: https://github.com/m6code/youtubeClone-web2acx
-- Weekly Blog : 
+- Weekly Blog : https://x.com/m6dproducer/status/1764935578628334033?s=20
